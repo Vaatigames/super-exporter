@@ -1,0 +1,7 @@
+api_key: ptlc_WgFYIvCvCX7RlikLVEEnlNXuJmmBwxPBaYyDR1k4Cy1
+host: panel.vaatigames.ovh
+host_port: null
+https: 0
+ignore_ssl: 0
+port: 25569
+server_list_type: admin-all
